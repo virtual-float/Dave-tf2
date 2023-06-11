@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @virtual-float.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++.
-<!---
-Dave-tf2/Dave-tf2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to my profile!
+
+- I can code in
+  - [C/C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  - [PHP](https://en.wikipedia.org/wiki/PHP)
+  - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+  - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+  - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+  - [HTML](https://en.wikipedia.org/wiki/HTML)
+  - [CSS](https://en.wikipedia.org/wiki/CSS)
+- Living location: [Poland](https://en.wikipedia.org/wiki/Poland)
