@@ -9,4 +9,4 @@ And I like to code for fun. I can code in languages such as:
   - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
   - [MySQL](https://en.wikipedia.org/wiki/MySQL)
 
-I also like science subjects (*such as mathematics, physics, chemistry*)
+I also like science subjects (*such as mathematics, physics, chemistry*).
